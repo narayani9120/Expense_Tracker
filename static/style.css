@@ -1,0 +1,29 @@
+.fields input
+{
+    display: block;
+    margin-bottom: 10px;
+    height: 45px;
+    width:45%;
+}
+.fields
+{
+    font-size: 25px;
+    padding-left: 38%;
+    padding-top: 8%;
+}
+.fields button
+{
+  height: 40px;
+  width: 20%;
+  font-size: 20px;
+  align-items: center;
+  background-color: black;
+  color: aliceblue;
+  border-radius: 30%;
+}
+.button
+{
+    padding-top: 3%;
+    padding-left: 15%;
+    
+}
